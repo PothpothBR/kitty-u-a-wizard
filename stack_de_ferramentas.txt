@@ -1,0 +1,13 @@
+KivyMD
+
+Kivy
+
+Python 3.10.X
+
+JSON
+
+Java17 LTS
+
+C++ 20
+
+PostgreSQL 14
