@@ -5,10 +5,13 @@
             "name": "Kivy: run - App",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceRoot}/cdp-front/main.py",
+            "program": "${workspaceRoot}/kw/main.py",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "envFile": "${workspaceFolder}/linvenv"
+            "python": "${workspaceFolder}/kw/linvenv/bin/python3",
+            "windows": {
+                "python": "${workspaceFolder}\\kw\\winvenv\\Scripts\\python.exe"
+            }
         }
     ]
 }
